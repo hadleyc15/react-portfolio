@@ -10,7 +10,11 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "www.linkedin.com/in/christopher-hadley-010b71165"
+      link: "https://www.linkedin.com/in/christopher-hadley-010b71165"
+    },
+    {
+      name: "far fa-envelope"
+      
     },
   ]
 

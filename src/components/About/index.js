@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePicture from '../../assets/cover/profile-picture.jpg';
+import ProfilePicture from '../../assets/cover/family-3.jpg';
 
 function About() {
   return (
@@ -9,10 +9,10 @@ function About() {
         <img src={ProfilePicture} alt="profile"></img>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Full time husband and father currently working in healthcare as a Dialysis Technician. Recently graduated from the University of Utah's Full Stack Web Development Bootcamp.
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        Looking for a job as a Junior Web Developer.
         </p>
       </div>
     </section>

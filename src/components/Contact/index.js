@@ -77,6 +77,7 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+      <p>Or feel free to click the envelope below and send me an email!</p>
     </section>
   );
 }
