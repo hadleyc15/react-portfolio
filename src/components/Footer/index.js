@@ -13,8 +13,8 @@ function Footer() {
       link: "https://www.linkedin.com/in/christopher-hadley-010b71165"
     },
     {
-      name: "far fa-envelope"
-      
+      name: "far fa-envelope",
+      link: "mailto:christopherhadley92@gmail.com"
     },
   ]
 
