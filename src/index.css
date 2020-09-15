@@ -8,8 +8,8 @@ main {
   --secondary: #31343D;
   --tertiary: #b12704;
   --light: white;
-  --dark: #48CAE4;
-  --darker: #ade8f4;
+  --dark: #98a1ab;
+  --darker: white;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -310,6 +310,7 @@ textarea {
   max-width: 500px;
   height: 300px;
   margin: 30px;
+  border: 2px solid var(--secondary);
 }
 
 .project-bg {

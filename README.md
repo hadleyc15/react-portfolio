@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [Questions](#questions)  
 
 ## **Application Links**
-> [Live Application](http://hadleyc15.github.io/react-portfolio)  
+> [Live Application](https://hadleyc15.github.io/react-portfolio)  
 > [GitHub Repository](https://github.com/hadleyc15/react-potfolio)
 
 ## **Contributors** 
@@ -27,6 +27,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This application was developed with the following application structures:
 
 1. [React](https://reactjs.org/docs/getting-started.html)
+2. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
 
