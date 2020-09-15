@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.6305de34.chunk.css",
+    "main.css": "/react-portfolio/static/css/main.324fb929.chunk.css",
     "main.js": "/react-portfolio/static/js/main.0ebff974.chunk.js",
     "main.js.map": "/react-portfolio/static/js/main.0ebff974.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
@@ -8,9 +8,9 @@
     "static/js/2.2193c0ee.chunk.js": "/react-portfolio/static/js/2.2193c0ee.chunk.js",
     "static/js/2.2193c0ee.chunk.js.map": "/react-portfolio/static/js/2.2193c0ee.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.d592996be40ddc67f07a405e1280f2f3.js": "/react-portfolio/precache-manifest.d592996be40ddc67f07a405e1280f2f3.js",
+    "precache-manifest.59aedc3b89c06542bbe5ca32f824e96d.js": "/react-portfolio/precache-manifest.59aedc3b89c06542bbe5ca32f824e96d.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.6305de34.chunk.css.map": "/react-portfolio/static/css/main.6305de34.chunk.css.map",
+    "static/css/main.324fb929.chunk.css.map": "/react-portfolio/static/css/main.324fb929.chunk.css.map",
     "static/js/2.2193c0ee.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2193c0ee.chunk.js.LICENSE.txt",
     "static/media/Budget-Tracker.jpg": "/react-portfolio/static/media/Budget-Tracker.ff579a18.jpg",
     "static/media/Campground-Finder.jpg": "/react-portfolio/static/media/Campground-Finder.54bf145e.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d992053.js",
     "static/js/2.2193c0ee.chunk.js",
-    "static/css/main.6305de34.chunk.css",
+    "static/css/main.324fb929.chunk.css",
     "static/js/main.0ebff974.chunk.js"
   ]
 }
