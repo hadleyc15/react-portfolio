@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.324fb929.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.0ebff974.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.0ebff974.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.35291e2d.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.bd5f1362.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.bd5f1362.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
-    "static/js/2.2193c0ee.chunk.js": "/react-portfolio/static/js/2.2193c0ee.chunk.js",
-    "static/js/2.2193c0ee.chunk.js.map": "/react-portfolio/static/js/2.2193c0ee.chunk.js.map",
+    "static/js/2.f1b35017.chunk.js": "/react-portfolio/static/js/2.f1b35017.chunk.js",
+    "static/js/2.f1b35017.chunk.js.map": "/react-portfolio/static/js/2.f1b35017.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.59aedc3b89c06542bbe5ca32f824e96d.js": "/react-portfolio/precache-manifest.59aedc3b89c06542bbe5ca32f824e96d.js",
+    "precache-manifest.83a5b7a7308059e493266220b1da93b5.js": "/react-portfolio/precache-manifest.83a5b7a7308059e493266220b1da93b5.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.324fb929.chunk.css.map": "/react-portfolio/static/css/main.324fb929.chunk.css.map",
-    "static/js/2.2193c0ee.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2193c0ee.chunk.js.LICENSE.txt",
+    "static/css/main.35291e2d.chunk.css.map": "/react-portfolio/static/css/main.35291e2d.chunk.css.map",
+    "static/js/2.f1b35017.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f1b35017.chunk.js.LICENSE.txt",
     "static/media/Budget-Tracker.jpg": "/react-portfolio/static/media/Budget-Tracker.ff579a18.jpg",
     "static/media/Campground-Finder.jpg": "/react-portfolio/static/media/Campground-Finder.54bf145e.jpg",
     "static/media/Coding-Quiz.jpg": "/react-portfolio/static/media/Coding-Quiz.da1f110e.jpg",
     "static/media/Tech-Blog.jpg": "/react-portfolio/static/media/Tech-Blog.4ae5affb.jpg",
     "static/media/Weather-Dashboard.jpg": "/react-portfolio/static/media/Weather-Dashboard.f693ed0e.jpg",
     "static/media/What-2-Watch.jpg": "/react-portfolio/static/media/What-2-Watch.ede58d16.jpg",
-    "static/media/family-3.jpg": "/react-portfolio/static/media/family-3.54a278dd.jpg"
+    "static/media/family-3.jpg": "/react-portfolio/static/media/family-3.54a278dd.jpg",
+    "static/media/profile-picture.jpg": "/react-portfolio/static/media/profile-picture.501dcd9c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d992053.js",
-    "static/js/2.2193c0ee.chunk.js",
-    "static/css/main.324fb929.chunk.css",
-    "static/js/main.0ebff974.chunk.js"
+    "static/js/2.f1b35017.chunk.js",
+    "static/css/main.35291e2d.chunk.css",
+    "static/js/main.bd5f1362.chunk.js"
   ]
 }
