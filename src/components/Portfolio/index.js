@@ -2,9 +2,15 @@ import React, { useState } from 'react';
 import Project from "../Project";
 
 function Portfolio() {
-
+  
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
+    {
+      name: 'Small-Show',
+      description: 'Final Project (React, GraphQL)',
+      link: "https://small-show-group-project.herokuapp.com/",
+      repo: "https://github.com/1hoppy1/small-show"
+    },
     {
       name: 'What-2-Watch',
       description: 'Full Stack Project',
@@ -34,12 +40,6 @@ function Portfolio() {
       description: 'Node/Express/Mongoose',
       link: "https://boiling-springs-33052.herokuapp.com/",
       repo: "https://github.com/hadleyc15/pwa-budget-tracker"
-    },
-    {
-      name: 'Tech-Blog',
-      description: 'MySQL/Sequelize',
-      link: "https://radiant-spire-51227.herokuapp.com/",
-      repo: "https://github.com/hadleyc15/tech-blog"
     },
   ]);
 
