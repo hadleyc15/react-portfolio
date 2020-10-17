@@ -9,7 +9,7 @@ function Portfolio() {
       name: 'Small-Show',
       description: 'Final Project (React, GraphQL)',
       link: "https://small-show-group-project.herokuapp.com/",
-      repo: "https://github.com/1hoppy1/small-show"
+      repo: "https://github.com/hadleyc15/small-show"
     },
     {
       name: 'What-2-Watch',
