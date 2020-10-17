@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39184240d8965c65f552b36bd08e0c64",
+    "revision": "f69880678d7a54b8fefce7b33a1dc53a",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "11e46a1448187cfb2e9c",
+    "revision": "136363fb5111fc131b42",
     "url": "/react-portfolio/static/css/main.67b6f4e1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.f1b35017.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11e46a1448187cfb2e9c",
-    "url": "/react-portfolio/static/js/main.bd5f1362.chunk.js"
+    "revision": "136363fb5111fc131b42",
+    "url": "/react-portfolio/static/js/main.0f69343c.chunk.js"
   },
   {
     "revision": "73a871a578ef5a2aeb49",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da1f110e0b4bc8b37006ca2fa5d0c7b4",
     "url": "/react-portfolio/static/media/Coding-Quiz.da1f110e.jpg"
+  },
+  {
+    "revision": "cff389d782046b4f73b5a9ce708bbbef",
+    "url": "/react-portfolio/static/media/Small-Show.cff389d7.jpg"
   },
   {
     "revision": "4ae5affb2d1dd7ee4548a0345db5e643",
