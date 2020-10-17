@@ -73,10 +73,10 @@ This application was developed with the following application structures:
 <img src="/src/assets/images/Screenshot%20(120).png" />
 
 ### <div align="center">**Portfolio Page**</div>
-<img src="/src/assets/images/Screenshot%20(121).png" />
+<img src="/src/assets/images/Screenshot%20(158).png" />
 
 ### <div align="center">**Contact Me page**</div>
-<img src="/src/assets/images/Screenshot%20(122).png" />
+<img src="/src/assets/images/Screenshot%20(159).png" />
 
 ### <div align="center">**Resume Page**</div>
 <img src="/src/assets/images/Screenshot%20(123).png" />
