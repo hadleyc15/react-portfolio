@@ -51,7 +51,7 @@ h6 {
 
 h1 {
   font-size: 4rem;
-  margin: 50px 20px;
+  padding-left: 10px;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   color: var(--light);
 }
@@ -87,7 +87,7 @@ p {
 }
 
 a {
-  color: var(--secondary);
+  color: rgb(0, 47, 255);
   text-decoration: none;
   opacity: .75;
 }
@@ -164,8 +164,8 @@ li {
 }
 
 header {
-  height: 200px;
-  position: relative;
+  height: 100px;
+  position: inherit;
   overflow: hidden;
   z-index: 2;
   border-bottom-style: solid;
@@ -180,10 +180,9 @@ header h1 {
 }
 
 nav {
-  position: relative;
+  position: inherit;
   font-family: 'Kumbh Sans', sans-serif;;
-  font-size: 2.5rem;
-  margin: 30px 20px;
+  font-size: 35px;
   color: var(--light);
 }
 
@@ -371,3 +370,4 @@ textarea {
   font-size: xx-large;
   
 }
+
