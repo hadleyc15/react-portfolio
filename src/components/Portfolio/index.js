@@ -7,25 +7,25 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'Small-Show',
-      description: 'Final Project (React, GraphQL)',
+      description: 'Final Group Project (React, GraphQL)',
       link: "https://small-show-group-project.herokuapp.com/",
       repo: "https://github.com/hadleyc15/small-show"
     },
     {
       name: 'What-2-Watch',
-      description: 'Full Stack Project',
+      description: 'Full Stack Group Project',
       link: "https://sleepy-lake-06641.herokuapp.com/",
       repo: "https://github.com/hadleyc15/what-2-watch"
     },
     {
       name: 'Campground-Finder',
-      description: 'Front End API Project',
+      description: 'Front End API Group Project',
       link: "https://hadleyc15.github.io/campground-finder/",
       repo: "https://github.com/hadleyc15/campground-finder"
     },
     {
       name: 'Weather-Dashboard',
-      description: 'Api Call HTML/CSS/JS',
+      description: 'Api call, HTML/CSS/JS',
       link: "https://hadleyc15.github.io/weather-dashboard/",
       repo: "https://github.com/hadleyc15/weather-dashboard"
     },
